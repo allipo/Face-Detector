@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50a29f79.chunk.css",
+    "main.js": "/static/js/main.fec2dce2.chunk.js",
+    "main.js.map": "/static/js/main.fec2dce2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd7f3aeb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd7f3aeb.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.60d6648d.chunk.js": "/static/js/2.60d6648d.chunk.js",
+    "static/js/2.60d6648d.chunk.js.map": "/static/js/2.60d6648d.chunk.js.map",
+    "static/js/3.80810f6c.chunk.js": "/static/js/3.80810f6c.chunk.js",
+    "static/js/3.80810f6c.chunk.js.map": "/static/js/3.80810f6c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.50a29f79.chunk.css.map": "/static/css/main.50a29f79.chunk.css.map",
+    "static/js/2.60d6648d.chunk.js.LICENSE.txt": "/static/js/2.60d6648d.chunk.js.LICENSE.txt",
+    "static/media/blue-brain.2a9ce20c.png": "/static/media/blue-brain.2a9ce20c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7f3aeb.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.60d6648d.chunk.js",
+    "static/css/main.50a29f79.chunk.css",
+    "static/js/main.fec2dce2.chunk.js"
+  ]
+}
